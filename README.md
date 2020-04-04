@@ -7,3 +7,4 @@ This is a simple python program for ARP spoofing
     * OR
     * python3 arp_spoof.py --target Target IP Address --gateway Gateway IP Address
  * You can also type python3 arp_spoof.py --help for guidance 
+ * Press ctrl+c to stof ARP spoofing and restore IP Address
